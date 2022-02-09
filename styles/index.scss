@@ -2,7 +2,7 @@
 
 $background: #0f2233;
 $colors: (
-  "gray-normal": #16032c,
+  "gray-normal": #000000,
   "gray-bright": #83898b,
   "gray-light": #a1a5a7,
   "gray-softlight": #56595a,
@@ -12,8 +12,8 @@ $colors: (
 );
 
 body {
-  background: rgb(32,22,42);
-  background: linear-gradient(180deg, rgba(32,22,42,1) 1%, rgba(42,13,71,1) 74%);
+  background: rgb(12,4,19);
+  background: linear-gradient(180deg, rgba(12,4,19,1) 12%, rgba(51,14,85,1) 74%);
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
