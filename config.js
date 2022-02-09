@@ -49,7 +49,7 @@
      {
       name: "portfolio",
       description:
-        "Personal portfolio made up by the help of skilzl.me",
+        "Personal portfolio made up by the help of skillzl.me",
       status: 3,
       to: "https://github.com/jzxchill/portfolio",
      },
