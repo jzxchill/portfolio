@@ -22,7 +22,7 @@
          name: "Spotify",
          color: "green",
          icon: "fab fa-spotify",
-         to: "hhttps://open.spotify.com/user/f2ntdx8gvjj4f03gpbzwigira?si=1ef2ca2d57f44b55",
+         to: "https://open.spotify.com/user/f2ntdx8gvjj4f03gpbzwigira?si=1ef2ca2d57f44b55",
        },
        {
          name: "Instagram",
